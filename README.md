@@ -9,9 +9,6 @@ Explore the prevalence of illegal pets across New York City with an interactive 
 - **Dynamic Filtering**: Users can select ranges within the histogram to refine the map and histogram views, allowing a detailed analysis of specific areas and animal types.
 - **Adaptive Legend**: The map legend dynamically adjusts to reflect the data distribution, providing clear visual cues for each borough’s illegal pet count.
 
-## Live Demo
-
-Try the live app here: [NYC Illegal Animals Data Visualization on Netlify](https://ubiquitous-bienenstitch-0e8bac.netlify.app/)
 
 ## Data
 
