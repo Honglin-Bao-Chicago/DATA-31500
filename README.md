@@ -6,7 +6,7 @@ Explore the prevalence of illegal pets across New York City with an interactive 
 
 - **Interactive Choropleth Map**: A color-coded map of NYC shows the distribution of illegal animals by **Borough**, making it easy to identify regions with higher incident counts.
 - **Top 10 City Histogram**: A histogram highlights the top 10 NYC cities by number of incidents, giving insights into areas with the highest occurrences of illegal pets.
-- **Dynamic Filtering**: Users can select ranges within the histogram to refine the map and histogram views, allowing a detailed analysis of specific areas and animal types.
+- **Dynamic Filtering**: Users can select ranges within the histogram to refine the map and histogram views, allowing a detailed analysis of specific areas.
 - **Adaptive Legend**: The map legend dynamically adjusts to reflect the data distribution, providing clear visual cues for each borough’s illegal pet count.
 
 
