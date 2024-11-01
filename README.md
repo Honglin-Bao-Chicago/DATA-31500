@@ -1,6 +1,6 @@
 # NYC Illegal Animals as Pets Data Visualization
 
-Explore the prevalence of illegal pets across New York City with an interactive visualization. Built with **D3.js** and **Svelte**, this app provides an engaging experience to explore data by **City** and **Borough**, focusing on various types of animals.
+Explore the prevalence of illegal pets across New York City with an interactive visualization. Built with **D3.js** and **Svelte**, this app provides an engaging experience to explore data by **City** and **Borough**.
 
 ## Features
 
