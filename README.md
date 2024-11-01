@@ -14,7 +14,6 @@ Explore the prevalence of illegal pets across New York City with an interactive 
 
 This dataset includes details on illegal pets across NYC, broken down by city and borough. Key data points include:
 - **City and Borough Distribution**: Incident counts organized by city and borough.
-- **Animal Types**: Categories such as Snake, Rooster, and Farm Animal are included.
 
 ## Technologies Used
 
